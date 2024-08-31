@@ -1,0 +1,2 @@
+# Leveraging-electrocardiogram-signals-for-the-identification-of-cardiac-arrhythmias
+  This project explores machine learning methods for detecting arrhythmias from ECG signals. We evaluate various algorithms including ANN, KNN, CNN, DNN, DT, and RF. Our goal is to identify the most effective techniques for arrhythmia detection, aiming to enhance early diagnosis and treatment of cardiovascular diseases.

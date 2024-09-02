@@ -61,10 +61,10 @@ The models were evaluated using the following metrics:
 
 The best-performing model achieved the following results (hypothetical outcomes, please update with actual results):
 
-- **Accuracy**: 95%
-- **Precision**: 92%
-- **Recall**: 90%
-- **F1 Score**: 91%
+- **Accuracy**: 98%
+- **Precision**: 98%
+- **Recall**: 98%
+- **F1 Score**: 98%
 
 The CNN model showed superior performance, particularly in detecting complex arrhythmias. However, other models like Random Forest also performed well with specific types of arrhythmias.
 
